@@ -1,0 +1,5 @@
+1. Load competition datasets
+- The dataset was downloaded directly from Kaggle using the Kaggle CLI.
+2. Run training notebook for Men & Women pipelines
+3. Generate predictions
+4. Create submission file
